@@ -23,19 +23,19 @@ In this part of the assignment you will explore what you’ve learned so far abo
 
 Write a loop that displays the following triangle within a console window:
 
-#
+`#`
 
-##
+`##`
 
-###
+`###`
 
-####
+`####`
 
-#####
+`#####`
 
-######
+`######`
 
-#######
+`#######`
 
 ## Odd or Even?
 
